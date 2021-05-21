@@ -44,7 +44,7 @@ namespace Publisher
                                         basicProperties: null,
                                         body: body);
 
-                Console.WriteLine($" [X] Enviada: {message}");
+                Console.WriteLine($" [x] Enviada: {message}");
 
             }
         }
